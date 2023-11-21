@@ -67,4 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Posdata
-No lo puede completar profe me pasaron muchas cosas  en mi laptop y no puede terminarlo, pero claro no es excusa para terminarlo                                                                                
+Registro de Asistencia                                                                               
